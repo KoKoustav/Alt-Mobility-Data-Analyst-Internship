@@ -63,5 +63,47 @@ Below is the main Cohort Analysis dashboard, followed by each individual visual 
 > **Note:**  
 > - To download the full report as a PDF, click Cohort Analysis in pdf.pdf file.
 > - You can also view the interactive dashboard on Power BI (Power BI account required):  
->   https://app.powerbi.com/links/JW4j2ii2Bb?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare  
+>   https://app.powerbi.com/links/JW4j2ii2Bb?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare
+
+## Summary of Findings
+
+1. **Top Sales Months**  
+   - January: \$368,294.00  
+   - March:  \$360,870.01  
+   - April:  \$341,095.06  
+
+2. **Top Sales Years**  
+   - 2023: \$735,218.44  
+   - 2020: \$716,659.46  
+   - 2022: \$712,130.64  
+
+3. **Customer Loyalty**  
+   - Repeat customers: 4,402  
+   - One-time customers: 2,932  
+   *→ Strong repeat rate indicates high customer satisfaction and retention.*
+
+4. **Top 3 Customers by Spend**  
+   | Customer ID | Total Spend |
+   |-------------|------------:|
+   | 6477        |  \$2,798.16 |
+   | 6679        |  \$2,246.56 |
+   | 5920        |  \$2,206.81 |
+
+5. **Payment Status Breakdown**  
+   | Status    | Count | Percentage |
+   |:----------|------:|-----------:|
+   | Completed | 5,003 |     33.35% |
+   | Pending   | 4,991 |     33.27% |
+   | Failed    | 5,006 |     33.37% |
+
+6. **2025 Early Performance**  
+   - Average order amount: \$260 (1,165,971 customers)  
+   - Next highest avg: \$256 (4,084,537 customers)  
+   *→ If this trend continues, 2025 is on track to surpass previous years in total sales.*
+
+7. **Highest Avg-Sales Months**  
+   - March  
+   - August  
+   - June  
+
 

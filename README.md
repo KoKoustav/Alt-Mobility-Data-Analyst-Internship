@@ -106,4 +106,41 @@ Below is the main Cohort Analysis dashboard, followed by each individual visual 
    - August  
    - June  
 
+## Recommendations for Alt Mobility
+
+Based on the analysis of order and payment data, here are several strategic recommendations to improve delivery rates, payment success, and overall customer satisfaction.
+
+1. **Investigate Outstanding Orders**  
+   | Order Status | Total Orders | Total Sales     |  
+   |--------------|-------------:|----------------:|  
+   | Delivered    | 5,057        | \$1,284,616.01  |  
+   | Pending      | 5,069        | \$1,278,400.04  |  
+   | Shipped      | 4,874        | \$1,245,883.14  |  
+   - **Issue:** Nearly as many orders remain “Pending” or “Shipped” as have been delivered.  
+   - **Potential Causes:**  
+     - Logistics delays or carrier bottlenecks  
+     - Incomplete shipping information or address errors  
+     - Inventory stockouts after order placement  
+   - **Action:** Implement real-time shipment tracking and automated notifications, and audit address validation at checkout to reduce pending/shipped counts.
+
+2. **Address Payment Failures**  
+   | Payment Status | Payment Count | Total Payment    |  
+   |----------------|--------------:|-----------------:|  
+   | Failed         | 5,003         | \$1,273,618.69   |  
+   | Completed      | 4,991         | \$1,257,085.15   |  
+   - **Issue:** A high volume of failed payments is roughly equal to completed payments.  
+   - **Potential Causes:**  
+     - Payment gateway timeouts or integration errors  
+     - Customer card declines (insufficient funds, expired cards)  
+     - UX friction in the checkout flow (forms not mobile-optimized)  
+   - **Action:** Review payment gateway logs, offer alternative payment methods, and streamline the checkout process to reduce declines.
+
+3. **Gather Direct Customer Feedback**  
+   - **Rationale:** Quantitative data highlights where orders and payments stall, but only customer feedback uncovers “why.”  
+   - **Action Steps:**  
+     - Deploy post-purchase NPS or CSAT surveys via email/SMS.  
+     - Offer a small incentive (e.g., discount code) for completing feedback.  
+     - Analyze themes (e.g., delivery experience, payment issues) and feed insights back into operations and UX improvements.
+
+Implementing these recommendations will help Alt Mobility convert more orders to “Delivered,” increase payment success rates, and strengthen customer loyalty through data-driven operational enhancements.  
 

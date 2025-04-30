@@ -99,7 +99,7 @@ Below is the main Cohort Analysis dashboard, followed by each individual visual 
 6. **2025 Early Performance**  
    - Average order amount: \$260 (1,165,971 customers)  
    - Next highest avg: \$256 (4,084,537 customers)  
-   *→ If this trend continues, 2025 is on track to surpass previous years in total sales.*
+   *→ If this trend continues, 2025 is on track to surpass previous all years in total sales.*
 
 7. **Highest Avg-Sales Months**  
    - March  

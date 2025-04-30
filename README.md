@@ -61,7 +61,7 @@ Below is the main Cohort Analysis dashboard, followed by each individual visual 
 ---
 
 > **Note:**  
-> - To download the full report as a PDF, click [Cohort Analysis in pdf.pdf](Cohort Analysis in pdf.pdf).  
+> - To download the full report as a PDF, click Cohort Analysis in pdf.pdf file.
 > - You can also view the interactive dashboard on Power BI (Power BI account required):  
 >   https://app.powerbi.com/links/JW4j2ii2Bb?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare  
 

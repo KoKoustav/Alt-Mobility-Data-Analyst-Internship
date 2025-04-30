@@ -31,7 +31,9 @@ SET
             order_date
     );
 
---           Order and Sales Analysis 
+-- Order and Sales Analysis 
+
+
 -- Total Sales & Orders by Status
 SELECT
     order_status,

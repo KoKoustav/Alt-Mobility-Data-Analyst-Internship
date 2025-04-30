@@ -12,7 +12,10 @@ SELECT
 FROM
     payments
 GROUP BY
-    payment_status -- Failed Payment Orders
+    payment_status 
+
+
+-- Failed Payment Orders
 SELECT
     p.order_id,
     c.customer_id,

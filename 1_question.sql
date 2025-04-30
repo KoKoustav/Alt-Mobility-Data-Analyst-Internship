@@ -55,7 +55,7 @@ FROM
 GROUP BY
     order_month
 ORDER BY
-    order_month;
+    total_sales DESC;
 
 -- Yearly revenue traend
 SELECT
@@ -66,4 +66,4 @@ FROM
 GROUP BY
     order_year
 ORDER BY
-    order_year;
+    total_sales DESC;

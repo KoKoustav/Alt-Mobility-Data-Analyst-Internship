@@ -35,7 +35,7 @@
 Below is the main Cohort Analysis dashboard, followed by each individual visual element and the filters used.
 
 ### Main Dashboard  
-![Cohort Analysis Dashboard](https://github.com/user-attachments/assets/a9692782-643d-412e-97b6-6cbf3c18ff0c)  
+![Cohort Analysis Dashboard](https://github.com/user-attachments/assets/553591aa-c62a-43b9-8d2b-29ec946e82b2)
 *Figure: Full Power BI dashboard view for cohort analysis.*
 
 ### Filters Pane  

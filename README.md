@@ -1,6 +1,24 @@
 # ALT MOBILITY Data Analysis Assignment
 
-## Order & Sales Analysis  
+## Business Questions
+
+Before diving into the detailed analyses below, we aim to answer these high-level questions:
+
+- **How well are orders being fulfilled?**  
+  What proportions of orders are in each status (e.g. Pending, Shipped, Cancelled), and how is this impacting revenue?
+
+- **How is our customer base behaving?**  
+  What share of revenue comes from repeat vs one-time customers, and who are our top customers by sales?
+
+- **Are there any payment bottlenecks?**  
+  How successful are transactions overall, and which orders are failing payment most often?
+
+- **What does a full order overview look like?**  
+  Can we produce a consolidated report combining order details, payment outcomes, and key performance metrics?
+
+---
+## Analysis Approach
+### Order & Sales Analysis  
 **SQL script:** `1_question.sql`  
 - **Total Sales & Orders by Status**  
 - **Monthly Revenue Trend**  
@@ -8,14 +26,14 @@
 
 ---
 
-## Customer Analysis  
+### Customer Analysis  
 **SQL script:** `2_question.sql`  
 - **Repeat vs One-time Customers**  
 - **Top Customers by Sales**  
 
 ---
 
-## Payment Status Analysis  
+### Payment Status Analysis  
 **SQL script:** `3_question.sql`  
 - **Payment Status Distribution**  
 - **Failed Payment Orders**  
@@ -23,7 +41,7 @@
 
 ---
 
-## Order Details Report  
+### Order Details Report  
 **SQL script:** `4_question.sql`  
 - **Comprehensive Order + Payment Details Report**
 

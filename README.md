@@ -17,32 +17,27 @@ Before diving into the detailed analyses below, we aim to answer these high-leve
   Can we produce a consolidated report combining order details, payment outcomes, and key performance metrics?
 
 ---
+
 ## Analysis Approach
 ### Order & Sales Analysis  
-**SQL script:** `1_question.sql`  
+**📺 SQL script:** [`1_question.sql`](./1_question.sql)
 - **Total Sales & Orders by Status**  
 - **Monthly Revenue Trend**  
 - **Yearly Revenue Trend**  
 
----
-
 ### Customer Analysis  
-**SQL script:** `2_question.sql`  
+**📺 SQL script:** [`2_question.sql`](./2_question.sql)
 - **Repeat vs One-time Customers**  
 - **Top Customers by Sales**  
 
----
-
 ### Payment Status Analysis  
-**SQL script:** `3_question.sql`  
+**📺 SQL script:** [`3_question.sql`](./3_question.sql)   
 - **Payment Status Distribution**  
 - **Failed Payment Orders**  
 - **Success and Failure Rate**  
 
----
-
 ### Order Details Report  
-**SQL script:** `4_question.sql`  
+**📺 SQL script:** [`4_question.sql`](./4_question.sql)  
 - **Comprehensive Order + Payment Details Report**
 
 ## Visualizations  
